@@ -1,0 +1,52 @@
+{
+    "tags": {
+        "modbus_tcp_master": {
+            "16_ISHIDA": {
+                "MACHINE_2_STATUS": {
+                    "values": [
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:26.316Z",
+                            "value": 4
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:27.313Z",
+                            "value": 8
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:28.311Z",
+                            "value": 4
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:29.310Z",
+                            "value": 6
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:30.311Z",
+                            "value": 4
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:31.309Z",
+                            "value": 6
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:32.307Z",
+                            "value": 8
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:33.307Z",
+                            "value": 5
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:34.305Z",
+                            "value": 8
+                        },
+                        {
+                            "updateTimeStamp": "2025-06-05T14:38:35.301Z",
+                            "value": 7
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
